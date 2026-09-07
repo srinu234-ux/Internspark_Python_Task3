@@ -1,0 +1,11 @@
+Student_ID,Department,Gender,Attendance,Marks
+1,CSE,Male,92,88
+2,ECE,Female,85,76
+3,CSE,Male,78,69
+4,EEE,Female,88,82
+5,ME,Male,95,91
+6,CSE,Female,76,65
+7,ECE,Male,82,72
+8,EEE,Female,90,85
+9,CSE,Male,73,61
+10,ME,Female,91,87
